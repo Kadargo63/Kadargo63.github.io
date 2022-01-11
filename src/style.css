@@ -11,10 +11,10 @@ html {
       rgba(12, 10, 22, 0.863)
     );
   
-    --imp-text-color: #c770f0;
+    --imp-text-color: #12a894;
   }
   
-  .purple {
+  .teal {
     color: var(--imp-text-color) !important;
   }
   
