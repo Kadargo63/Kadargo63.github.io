@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 import superfan from "../../Assets/Projects/superfan.png";
-import sample1 from "../../Assets/Projects/sample1.jpeg";
+import sample1 from "../../Assets/Projects/sample1.png";
 import sample2 from "../../Assets/Projects/sample2.png";
 import inventory from "../../Assets/Projects/excelsior-inventory.png";
 import sample3 from "../../Assets/Projects/sample3.png";
