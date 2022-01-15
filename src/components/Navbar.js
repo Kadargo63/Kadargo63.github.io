@@ -79,9 +79,9 @@ function NavBar() {
                         </Nav.Item>
   
                         <Nav.Item>
-                            <Nav.Link href="URLFORMYBLOG!" target="_blank" rel="noreferrer"
+                            <Nav.Link as={Link} to="/contact" onClick={() => updateExpanded(false)}
                             >
-                                <ImBlog style={{ marginBottom: "2px" }} /> Blogs
+                                <ImBlog style={{ marginBottom: "2px" }} /> Contact Me
                             </Nav.Link>
                         </Nav.Item>
   

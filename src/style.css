@@ -541,11 +541,12 @@ html {
   /* --------- */
   
   .about-section {
-    position: relative !important;
-    padding-top: 150px !important;
+    position: relative;
+    z-index: -1;
+    background-position: top center;
+    background-repeat: no-repeat;
     padding-bottom: 30px !important;
-    background-image: var(--section-background-color) !important;
-    color: white !important;
+    padding-top: 30px !important;
   }
   
   .tech-icons {
@@ -681,6 +682,21 @@ html {
     top: 0;
     background: #fff;
     border: 2px solid #8a49a8;
+  }
+
+  /*--------*/
+  /* Contact */
+  /*--------*/
+
+  .contact-section {
+    position: relative !important;
+    padding-top: 150px !important;
+    padding-bottom: 30px !important;
+    background-image: var(--section-background-color) !important;
+    position: relative;
+    z-index: -1;
+    background-position: top center;
+    background-repeat: repeat;
   }
   
   .like-item {
