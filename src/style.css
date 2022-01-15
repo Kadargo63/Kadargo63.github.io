@@ -16,6 +16,7 @@ html {
   
   .teal {
     color: var(--imp-text-color) !important;
+    -webkit-text-stroke: .5px rgb(177, 24, 197);;
   }
   
   /* --------- */
