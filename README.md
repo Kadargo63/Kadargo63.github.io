@@ -25,6 +25,7 @@
   * Node.js
   * CSS3
   * VS Code
+  * Heroku
       
   # Installation
   `npm install` In the project directory, run 'npm start'. Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in browser. The page will reload if edited.
