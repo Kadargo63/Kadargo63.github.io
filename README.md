@@ -1,7 +1,13 @@
 
-  # Project Title
-  Portfolio Website
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  <h2 align="center">
+  Portfolio Website - v2.0<br/>
+  <a href="TBD" target="_blank">TBD</a>
+  </h2>
+  <div align="center">
+  <img alt="Demo" src="./Images/readme-img1.png" />
+  </div>
+
+<br/>
 
   # Description
   My personal portfolio <anchor reference here> which features some of my github projects as well as my resume and technical skills. 
