@@ -12,7 +12,7 @@ function AboutCard() {
                         <br /> I'm a Full-Stack Web Developer.
                         <br />
                         <br />
-                        In addition to coding, I also love to :
+                        In addition to coding, I also love:
                     </p>
                     <ul>
                         <li className="about-activity">
@@ -25,7 +25,7 @@ function AboutCard() {
                             <ImPointRight /> Coding some more!
                         </li>
                     </ul>
-                    <p style={{ marginBlockEnd: 0, color: "rgb(115 126 172" }}>
+                    <p style={{ marginBlockEnd: 0, color: "rgb(102, 0, 102)" }}>
                     “If you fail to plan, you're planning to fail.”
                     </p>
                     <footer className="blockqoute-footer">Robert</footer>

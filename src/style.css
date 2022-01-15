@@ -2,16 +2,16 @@ html {
     --section-background-color: linear-gradient(
       to bottom left,
       rgba(104, 201, 149, 0.582),
-      rgba(3, 95, 23, 0.904)
+      rgba(60, 175, 140, 0.904)
     );
   
     --image-gradient: linear-gradient(
       to bottom left,
-      rgba(13, 160, 179, 0.678),
+      rgba(13, 179, 157, 0.678),
       rgba(26, 52, 56, 0.863)
     );
   
-    --imp-text-color: #12a894;
+    --imp-text-color: #1ff9b8;
   }
   
   .teal {
@@ -53,12 +53,12 @@ html {
   
   /* Track */
   ::-webkit-scrollbar-track {
-    background: #2d1950;
+    background: #03b07c;
   }
   
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: rgba(121, 216, 216, 0.959);
+    background: rgba(3, 230, 162);
     border-radius: 12px;
   }
   
@@ -157,7 +157,7 @@ html {
   }
   
   .navbar-nav .nav-link {
-    color: rgb(56, 6, 52) !important;
+    color: rgb(2, 75, 53) !important;
     padding-right: 1rem !important;
     padding-left: 1rem !important;
   }
@@ -191,7 +191,7 @@ html {
     height: 5px;
     width: 0;
     border-radius: 16px;
-    background: #5bd6f5;
+    background: #024b35;
     bottom: 1px;
     left: 0;
     z-index: -1;
@@ -318,10 +318,11 @@ html {
     position: relative;
     padding-bottom: 70px !important;
     padding-top: 70px !important;
+    background: #cdfeef;
   }
   
   .home-about-description {
-    color: rgb(35, 77, 35) !important;
+    color: rgb(21, 71, 21) !important;
     padding-top: 100px !important;
     padding-bottom: 20px !important;
     text-align: center;
@@ -355,7 +356,7 @@ html {
     text-align: center !important;
     font-size: 1.2em !important;
     line-height: 2em !important;
-    background: rgba(255, 255, 255, 0.972) !important;
+    background: rgba(205, 254, 239) !important;
     border-radius: 50% !important;
     transition: 0.5s !important;
   }
@@ -380,9 +381,9 @@ html {
   }
   
   .home-social-icons:hover {
-    color: #87209e;
-    box-shadow: 0 0 5px #87209e;
-    text-shadow: 0 0 2px #87209e;
+    color: #00ff00;
+    box-shadow: 0 0 5px #00ff00;
+    text-shadow: 0 0 2px #00ff00;
   }
   
   .social-icons {
@@ -392,14 +393,14 @@ html {
   }
   
   .icon-colour {
-    color: #700c86 !important;
+    color: #00b300 !important;
   }
   
   /* --------- */
   /* Footer */
   /* --------- */
   .footer {
-    background-color: rgb(10, 4, 22);
+    background-color: rgb(2, 100, 71);
     bottom: 0 !important;
     padding-top: 10px !important;
     padding-bottom: 8px !important ;
@@ -424,7 +425,7 @@ html {
   
   .footer h3 {
     font-size: 1em;
-    color: white !important;
+    color: rgb(31, 249, 184) !important;
     margin-top: 0.5em !important;
     margin-bottom: 0.5em !important;
   }
@@ -456,7 +457,7 @@ html {
   }
   
   .project-card-view {
-    box-shadow: 0 4px 5px 3px rgba(119, 53, 136, 0.459) !important;
+    box-shadow: 0 4px 5px 3px rgba(0, 204, 102) !important;
     color: white !important;
     background-color: transparent !important;
     opacity: 0.9 !important;
@@ -514,12 +515,12 @@ html {
   
   .btn-primary {
     color: #fff !important;
-    background-color: #623686 !important;
-    border-color: #623686 !important;
+    background-color: #00994d !important;
+    border-color: #00994d !important;
   }
   
   .btn-primary:hover {
-    color: #fff !important;
+    color: rgb(255, 255, 255) !important;
     background-color: #6d20c5d7 !important;
     border-color: #6d20c5d7 !important;
   }

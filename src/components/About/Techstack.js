@@ -2,11 +2,13 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
     DiJavascript1,
+    DiExpress,
     DiReact,
     DiNodejs,
     DiMongodb,
     DiGit,
 } from "react-icons/di";
+import { SiExpress } from "react-icons/si";
 
 function Techstack() {
     return (
@@ -16,6 +18,9 @@ function Techstack() {
             </Col>
             <Col xs={4} md={2} className="tech-icons">
                 <DiJavascript1 />
+            </Col>
+            <Col xs={4} md={2} className="tech-icons">
+                <SiExpress />
             </Col>
             <Col xs={4} md={2} className="tech-icons">
                 <DiReact />

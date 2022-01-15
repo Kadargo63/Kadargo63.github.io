@@ -24,7 +24,7 @@ function Footer() {
                         <li className="social-icons">
                             <a 
                             href="https://github.com/Kadargo63"
-                            style={{ color: "white" }}
+                            style={{ color: "#1ff9b8" }}
                             target="_blank"
                             rel="noopener noreferrer"
                             >
@@ -34,7 +34,7 @@ function Footer() {
                         <li className="social-icons">
                             <a 
                                 href="https://twitter.com/robertisaacs87"
-                                style={{ color: "white" }}
+                                style={{ color: "#1ff9b8" }}
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
@@ -44,7 +44,7 @@ function Footer() {
                         <li className="social-icons">
                             <a 
                                 href="https://www.linkedin.com/in/robert-isaacs-mba-165747106/"
-                                style={{ color: "white" }}
+                                style={{ color: "#1ff9b8" }}
                                 target="_blank" 
                                 rel="noopener noreferrer"
                             >
@@ -54,7 +54,7 @@ function Footer() {
                         <li className="social-icons">
                             <a
                                 href="https://www.instagram.com/robert_isaacs87/"
-                                style={{ color: "white" }}
+                                style={{ color: "#1ff9b8" }}
                                 target="_blank" 
                                 rel="noopener noreferrer"
                             >
