@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="teal"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Talk about programming
+              I am a life-long learner and problem-solver always looking out for the next challenge. 
               <br />
               <br />I am fluent in classics like
               <i>
@@ -44,7 +44,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="teal"> React.js and Next.js</b>
+                <b className="teal"> React.js</b>.
               </i>
             </p>
           </Col>
