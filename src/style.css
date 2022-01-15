@@ -191,7 +191,7 @@ html {
     height: 5px;
     width: 0;
     border-radius: 16px;
-    background: #024b35;
+    background: #a24dd386;
     bottom: 1px;
     left: 0;
     z-index: -1;
@@ -724,7 +724,7 @@ html {
   
   .fork-btn-inner {
     line-height: 1.4em !important;
-    background-color: #934cce5e !important;
+    background-color: #024b35 !important;
     padding: 0.25rem 1.1rem !important;
     vertical-align: middle !important;
     text-align: center !important;
