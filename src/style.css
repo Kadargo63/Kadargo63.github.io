@@ -16,7 +16,7 @@ html {
   
   .teal {
     color: var(--imp-text-color) !important;
-    -webkit-text-stroke: .5px rgb(177, 24, 197);;
+    -webkit-text-stroke: .5px rgb(44, 6, 49);;
   }
   
   /* --------- */
@@ -541,12 +541,11 @@ html {
   /* --------- */
   
   .about-section {
-    position: relative;
-    z-index: -1;
-    background-position: top center;
-    background-repeat: no-repeat;
+    position: relative !important;
+    padding-top: 150px !important;
     padding-bottom: 30px !important;
-    padding-top: 30px !important;
+    background-image: var(--section-background-color) !important;
+    color: white !important;
   }
   
   .tech-icons {
