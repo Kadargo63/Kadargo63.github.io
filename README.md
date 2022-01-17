@@ -25,12 +25,26 @@
   * Node.js
   * CSS3
   * VS Code
+  * Heroku
       
   # Installation
-  `npm install` In the project directory, run 'npm start'. Runs the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in browser. The page will reload if edited.
+  Clone the repo to your local development environment.
+  
+  `git clone https://github.com/Kadargo63/isaacs-portfolio.git`
+  
+  Navigate to the folder directory using the command prompt.
+  
+  Run `npm install` to install all dependencies.
+  
+  Run `npm start` to run the application in terminal or bash.
+  
+  Use [http://localhost:3000](http://localhost:3000) in your browser
   
   # Usage
-  Open the project folder and Navigate to `/src/components/`. You will find all the components used and you can edit your information accordingly.
+  * Open the project folder and Navigate to `/src/components/`. <br/> You will find all the components used and you can edit your information accordingly. 
+  * Multi-page layout
+  * Styled with React-bootstrap and CSS with easy to customize colors
+  *Fully mobile responsive
   
   # Contributing 
   You can fork this repo to modify and make changes of your own.
