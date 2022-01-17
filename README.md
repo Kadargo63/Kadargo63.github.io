@@ -25,7 +25,6 @@
   * Node.js
   * CSS3
   * VS Code
-  * Heroku
       
   # Installation
   Clone the repo to your local development environment.
