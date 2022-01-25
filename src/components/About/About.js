@@ -31,7 +31,7 @@ function About() {
                     </Col>
                 </Row>
                 <h1 className="project-heading">
-                    Professional <strong className="teal">Skillset </strong>
+                    Professional <strong className="teal">Skillset</strong>
                 </h1>
 
                 <Techstack />
@@ -41,6 +41,10 @@ function About() {
                 </h1>
 
                 <Toolstack />
+
+                <h1 className="project-heading">
+                    Days I <strong className="teal">Code</strong>
+                </h1>
 
                 <Github />
 

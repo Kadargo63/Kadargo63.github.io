@@ -4,7 +4,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import emailjs from '@emailjs/browser';
 import Particle from '../Particle';
 import 'react-toastify/dist/ReactToastify.min.css';
-import './index.css';
+import './contact.css';
 
 const ContactForm = () => {
   const {

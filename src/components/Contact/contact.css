@@ -13,9 +13,9 @@ body {
   margin: 0;
 }
 
-h1 {
+/* h1 {
   color: var(--green);
-}
+} */
 
 .App {
   height: 75vh;

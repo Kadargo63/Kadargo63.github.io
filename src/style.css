@@ -18,6 +18,11 @@ html {
     color: var(--imp-text-color) !important;
     -webkit-text-stroke: .5px rgb(49, 6, 6);;
   }
+
+  .teal:hover {
+    color: #5d0680 !important;
+    -webkit-text-stroke: .5px rgb(49, 6, 6);;
+  }
   
   /* --------- */
   /*  Preloader */
@@ -459,7 +464,7 @@ html {
   
   .project-card-view {
     box-shadow: 0 4px 5px 3px rgba(0, 204, 102) !important;
-    color: white !important;
+    color: rgb(76, 5, 94) !important;
     background-color: transparent !important;
     opacity: 0.9 !important;
     transition: all 0.5s ease 0s !important;
@@ -530,7 +535,7 @@ html {
     box-shadow: none !important;
   }
   .project-heading {
-    color: white !important;
+    color: rgb(95, 8, 117) !important;
     font-size: 2.3em !important;
     font-weight: 500 !important;
     padding-top: 10px !important;
@@ -545,7 +550,7 @@ html {
     padding-top: 150px !important;
     padding-bottom: 30px !important;
     background-image: var(--section-background-color) !important;
-    color: white !important;
+    color: rgb(95, 8, 117) !important;
   }
   
   .tech-icons {
@@ -572,7 +577,7 @@ html {
   .tech-icons:hover {
     transform: scale(1.05) !important;
     overflow: hidden !important;
-    border: 2.2px solid rgba(197, 115, 230, 0.883) !important;
+    border: 2.2px solid rgba(82, 5, 112, 0.883) !important;
   }
   .tech-icon-images {
     padding: 20px !important;
@@ -581,7 +586,7 @@ html {
   
   .quote-card-view {
     border: none !important;
-    color: white !important;
+    color: rgb(3, 51, 19) !important;
     background-color: transparent !important;
   }
   
@@ -692,10 +697,6 @@ html {
     padding-top: 150px !important;
     padding-bottom: 30px !important;
     background-image: var(--section-background-color) !important;
-    position: relative;
-    z-index: -1;
-    background-position: top center;
-    background-repeat: repeat;
   }
   
   .like-item {
