@@ -8,9 +8,6 @@ function Contactme() {
         <Container fluid className="contact-section">
           <Particle />
               <Container>
-                <h1 className="project-heading">
-                  My Recent <strong className="teal">Works </strong>
-                </h1>
                 <ContactForm />
             </Container>
     </Container>
