@@ -1,7 +1,7 @@
 
   <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://kadargo63.github.io/isaacs-portfolio/" target="_blank">kadargo63.github.io/isaacs-portfolio/</a>
+  <a href="https://kadargo63.github.io/" target="_blank">kadargo63.github.io</a>
   </h2>
   <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
