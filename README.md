@@ -23,7 +23,10 @@
   This project was built with:
   * React.js
   * Node.js
+  * React-bootstrap
+  * Emailjs
   * CSS3
+  * HTML5
   * VS Code
       
   # Installation
