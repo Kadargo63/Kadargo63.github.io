@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-    "https://raw.githubusercontent.com/Kadargo63/isaacs-portfolio/main/src/Assets/Robert-Isaacs.pdf";
+    "https://github.com/Kadargo63/Kadargo63.github.io/blob/a0c38fb950bf0e7c65007659f310aba91c207f3d/src/Assets/Robert-Isaacs.pdf";
     
 
 function ResumeNew() {
