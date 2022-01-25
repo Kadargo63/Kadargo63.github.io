@@ -4,7 +4,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import emailjs from '@emailjs/browser';
 import Particle from '../Particle';
 import 'react-toastify/dist/ReactToastify.min.css';
-import './index.css';
+import './contact.css';
 
 const ContactForm = () => {
   const {
@@ -66,6 +66,7 @@ const ContactForm = () => {
 
   return (
     <div className='ContactForm'>
+      <Particle />
       <h1>Say hi!</h1>
       <div className='home-about-section'>
         <div className='row'>

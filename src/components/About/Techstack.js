@@ -2,7 +2,6 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
     DiJavascript1,
-    DiExpress,
     DiReact,
     DiNodejs,
     DiMongodb,

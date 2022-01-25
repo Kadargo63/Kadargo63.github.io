@@ -9,7 +9,7 @@ function Contactme() {
           <Particle />
               <Container>
                 <h1 className="project-heading">
-                  My Recent <strong className="teal">Works </strong>
+                  Say <strong className="teal">Hello </strong>
                 </h1>
                 <ContactForm />
             </Container>
