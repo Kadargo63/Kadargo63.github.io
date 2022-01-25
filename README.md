@@ -10,7 +10,7 @@
 <br/>
 
   # Description
-  My personal portfolio <anchor reference here> which features some of my github projects as well as my resume and technical skills. 
+  My personal portfolio <a href="https://kadargo63.github.io/"> which features some of my github projects as well as my resume and technical skills. 
 
   # Table of Contents 
   * [Built With](#-Built-With)
