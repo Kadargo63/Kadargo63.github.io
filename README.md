@@ -10,7 +10,7 @@
 <br/>
 
   # Description
-  My personal portfolio <anchor reference here> which features some of my github projects as well as my resume and technical skills. 
+  My personal <a href="https://kadargo63.github.io/">portfolio </a> which features some of my github projects as well as my resume and technical skills. 
 
   # Table of Contents 
   * [Built With](#-Built-With)
@@ -23,7 +23,10 @@
   This project was built with:
   * React.js
   * Node.js
+  * React-bootstrap
+  * Emailjs
   * CSS3
+  * HTML5
   * VS Code
       
   # Installation
@@ -43,7 +46,7 @@
   * Open the project folder and Navigate to `/src/components/`. <br/> You will find all the components used and you can edit your information accordingly. 
   * Multi-page layout
   * Styled with React-bootstrap and CSS with easy to customize colors
-  *Fully mobile responsive
+  * Fully mobile responsive
   
   # Contributing 
   You can fork this repo to modify and make changes of your own.
