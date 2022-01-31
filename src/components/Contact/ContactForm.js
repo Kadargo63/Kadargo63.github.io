@@ -67,7 +67,7 @@ const ContactForm = () => {
   return (
     <div className='ContactForm'>
       <Particle />
-      <h1>Say hi!</h1>
+      <h3>You can contact me directly via the form below.</h3>
       <div className='home-about-section'>
         <div className='row'>
           <div className='col-12 text-center'>
