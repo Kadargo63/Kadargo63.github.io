@@ -9,7 +9,7 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-    "https://raw.githubusercontent.com/Kadargo63/isaacs-portfolio/main/src/Assets/Robert-Isaacs.pdf";
+    "https://raw.githubusercontent.com/Kadargo63/Kadargo63.github.io/gh-pages/src/Assets/Robert-Isaacs.pdf";
     
 
 function ResumeNew() {
@@ -30,7 +30,7 @@ function ResumeNew() {
           </Button>
         </Row>
 
-        <Row className="resume">
+        <Row style={{ justifyContent: "center", position: "relative"}} className="resume">
           <Document file={resumeLink}>
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>

@@ -19,6 +19,9 @@ function AboutCard() {
                             <ImPointRight /> Playing the Violin. 
                         </li>
                         <li className="about-activity">
+                            <ImPointRight /> Tending to my honeybees. 🐝🐝🐝
+                        </li>
+                        <li className="about-activity">
                             <ImPointRight /> Spending time with my husband and canine kids.
                         </li>
                         <li className="about-activity">

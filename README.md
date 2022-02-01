@@ -10,7 +10,7 @@
 <br/>
 
   # Description
-  My personal <a href="https://kadargo63.github.io/">portfolio </a> which features some of my github projects as well as my resume and technical skills. 
+  My personal <a href="https://kadargo63.github.io/">portfolio </a> built with React which features some of my github projects as well as my resume and technical skills. 
 
   # Table of Contents 
   * [Built With](#-Built-With)

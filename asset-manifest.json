@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b5a3e82.css",
+    "main.js": "/static/js/main.0c286ab4.js",
+    "static/js/787.da90704c.chunk.js": "/static/js/787.da90704c.chunk.js",
+    "static/media/avatar.png": "/static/media/avatar.8e9d47adb2f9c7c779c4.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.c13274584891f031babe.jpg",
+    "static/media/techblog.png": "/static/media/techblog.836af7631caa50e37c0f.png",
+    "static/media/superfan.png": "/static/media/superfan.fe15142a2ae761960469.png",
+    "static/media/about.png": "/static/media/about.6008a05d9f2960f5b87e.png",
+    "static/media/Robert-Isaacs.pdf": "/static/media/Robert-Isaacs.ffd61fc86c7c7c342702.pdf",
+    "static/media/sample2.png": "/static/media/sample2.157c6f32dfa07832cee0.png",
+    "static/media/sample3.png": "/static/media/sample3.17cb6b68a0e8ea411831.png",
+    "static/media/excelsior-inventory.png": "/static/media/excelsior-inventory.00b31e7210f4a7a21df5.png",
+    "static/media/sample1.png": "/static/media/sample1.8c49dd44afe0e667afa3.png",
+    "static/media/logo.png": "/static/media/logo.71677ad10c6dcc5f8971.png",
+    "static/media/home-main.svg": "/static/media/home-main.6b000a3f5e3e080562b4188c7ad3540e.svg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.9b5a3e82.css.map": "/static/css/main.9b5a3e82.css.map",
+    "main.0c286ab4.js.map": "/static/js/main.0c286ab4.js.map",
+    "787.da90704c.chunk.js.map": "/static/js/787.da90704c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b5a3e82.css",
+    "static/js/main.0c286ab4.js"
+  ]
+}
