@@ -22,12 +22,23 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={sample3}
+              isBlog={false}
+              title="React Portfolio"
+              description='My personal portfolio deployed at kadargo63.github.io built with React which features some of my github projects as well as my resume and technical skills.'
+              link="https://github.com/Kadargo63/Kadargo63.github.io"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={inventory}
               isBlog={false}
               title="Destination Dance Inventory"
-              description="Full-stack MERN Inventory management app."
+              description="Full-stack MERN Inventory management app built to client specifications by team of 4 developers."
               link="https://github.com/Kadargo63/excelsior-inventory"
             />
           </Col>
@@ -54,21 +65,13 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={sample3}
-              isBlog={false}
-              title="Sample 3"
-              description="Add project decription."
-              link="https://github.com/Kadargo63/sample3"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
               imgPath={sample2}
               isBlog={false}
-              title="Sample 2"
-              description="Add project decription."
-              link="https://github.com/Kadargo63/sample2"
+              title="Budget Tracker"
+              description="This project involved refactoring code to update an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
+
+              This application is deployed to Heroku here: https://polar-inlet-88127.herokuapp.com/"
+              link="https://github.com/Kadargo63/budgie-budget"
             />
           </Col>
 
@@ -76,9 +79,9 @@ function Projects() {
             <ProjectCard
               imgPath={sample1}
               isBlog={false}
-              title="Sample 1"
-              description="Add project decription."
-              link="https://github.com/Kadargo63/sample1"
+              title="Weather API"
+              description="A simple web application that allows users to search for a city to get the current weather and 5 day forecast. This weather dashboard will run in the browser and feature dynamically updated HTML and CSS."
+              link="https://github.com/Kadargo63/weather-or-not"
             />
           </Col>
         </Row>

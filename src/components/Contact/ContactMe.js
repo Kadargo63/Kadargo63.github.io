@@ -24,6 +24,7 @@ function Contactme() {
                             <strong className="teal">Reach</strong> Out!
                         </h1>
                         <p> <a href="mailto:robertisaacs87@yahoo.com">ROBERTISAACS87@YAHOO.COM</a> </p>
+                        
 
                     </Col>    
                     <Col md={5} style={{ paddingTop: "120px", paddingBottom: "50px" }} className="about-img" >
