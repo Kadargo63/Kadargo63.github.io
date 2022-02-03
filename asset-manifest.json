@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.543b9504.css",
-    "main.js": "/static/js/main.b91e47e5.js",
+    "main.js": "/static/js/main.46f99cf3.js",
     "static/js/787.65e62d43.chunk.js": "/static/js/787.65e62d43.chunk.js",
     "static/media/avatar.png": "/static/media/avatar.8e9d47adb2f9c7c779c4.png",
     "static/media/sample3.png": "/static/media/sample3.92b241f9101e76f9c1d4.png",
@@ -9,21 +9,21 @@
     "static/media/techblog.png": "/static/media/techblog.836af7631caa50e37c0f.png",
     "static/media/superfan.png": "/static/media/superfan.fe15142a2ae761960469.png",
     "static/media/contact.png": "/static/media/contact.edf480b8918b5947af04.png",
+    "static/media/excelsior-inventory.png": "/static/media/excelsior-inventory.5f8764401d29fd00be07.png",
     "static/media/about.png": "/static/media/about.6008a05d9f2960f5b87e.png",
     "static/media/sample1.png": "/static/media/sample1.0fcc347a2d61bf7228a4.png",
     "static/media/Robert-Isaacs.pdf": "/static/media/Robert-Isaacs.661ad8e09b1397609851.pdf",
     "static/media/sample2.png": "/static/media/sample2.69c01e91e80c043de8dc.png",
-    "static/media/excelsior-inventory.png": "/static/media/excelsior-inventory.00b31e7210f4a7a21df5.png",
     "static/media/logo.png": "/static/media/logo.71677ad10c6dcc5f8971.png",
     "static/media/home-main.svg": "/static/media/home-main.6b000a3f5e3e080562b4188c7ad3540e.svg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.543b9504.css.map": "/static/css/main.543b9504.css.map",
-    "main.b91e47e5.js.map": "/static/js/main.b91e47e5.js.map",
+    "main.46f99cf3.js.map": "/static/js/main.46f99cf3.js.map",
     "787.65e62d43.chunk.js.map": "/static/js/787.65e62d43.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.543b9504.css",
-    "static/js/main.b91e47e5.js"
+    "static/js/main.46f99cf3.js"
   ]
 }
